@@ -9,6 +9,7 @@ class Dog
   
   def save
     @@all << self
+  end  
   
   def all
     @@all
