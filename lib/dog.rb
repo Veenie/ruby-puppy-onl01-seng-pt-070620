@@ -1,7 +1,7 @@
 # Add your code here
 
 class Dog
-  attr:name
+  attr :name
   @@all = [] 
   
   def initialize(name)
